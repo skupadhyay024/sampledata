@@ -1,0 +1,14 @@
+[
+  {"id":1,
+ "name":"Ram",
+ "profession":"HR",
+ "status":"active"},
+ {"id":2,
+ "name":"Sam",
+ "profession":"ADMIN",
+ "status":"inactive"},
+{"id":3,
+ "name":"John",
+ "profession":"SE",
+ "status":"active"}
+ ]
